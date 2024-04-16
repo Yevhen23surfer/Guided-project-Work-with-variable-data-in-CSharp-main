@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fvujY++h+hfjIsOc72ndp4tgNuSVWSzWR/F7J/waHQ05U+s3PCaygcQh8nbDDy4saR2iWfWpPLPsz1e+CpSdMg==",
+  "success": true,
+  "projectFilePath": "/Users/yevgenskopets/Documents/IT/Course/kodehode/Modul B/csharpProjects/Guided-project-Work-with-variable-data-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/Users/yevgenskopets/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/yevgenskopets/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/yevgenskopets/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.16/microsoft.netcore.app.host.osx-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
